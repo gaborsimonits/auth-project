@@ -5,7 +5,7 @@
 	margin: 0 auto;
 }
 .wrapper {
-	background-color: rgb(198, 183, 183);
+	background-color: rgb(186, 201, 219);
 	padding: 1rem;
 	margin-bottom: 1rem;
 	border-radius: 8px;
@@ -17,14 +17,14 @@
 }
 
 .wrapper .data {
-	background-color: #ccc;
+	background-color: rgb(107, 142, 144);
 	padding: 1rem;
 }
 
 button {
 	padding: 1rem;
 	border: none;
-	background-color: white;
+	background-color: rgb(157, 158, 170);
 	margin: 1rem 0;
 	width: 100%;
 }
